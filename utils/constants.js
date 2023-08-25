@@ -1,0 +1,17 @@
+export const PAGE_SIZE = 10;
+export const MAX_ITEMS = 100;
+export const DEBOUNCE_TIMEOUT = 500;
+export const LIST_3PL = 'List 3PL';
+export const ADD_3PL = 'Add 3PL';
+export const EDIT_3PL = 'Edit 3PL';
+export const DELETE_3PL = 'Delete 3PL';
+export const LIST_ROLE = 'List Role';
+export const ADD_ROLE = 'Add Role';
+export const EDIT_ROLE = 'Edit Role';
+export const DELETE_ROLE = 'Delete Role';
+export const LIST_PERMISSION = 'List Permission';
+export const LIST_USER = 'List User';
+export const ADD_USER = 'Add User';
+export const EDIT_USER = 'Edit User';
+export const DELETE_USER = 'Delete User';
+export const MONTHS = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12'];
